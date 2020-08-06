@@ -25,3 +25,7 @@ hs_err_pid*
 venv/
 
 .DS_Store
+
+.idea/
+
+GrokkingAlgorithms/Grokking_Algorithms_An_Illustrated_Guide_for_Programmers_and_Other.pdf

@@ -1,10 +1,10 @@
 package fun.kirill.arrays;
 
 /**
- * The type Solution.
+ * The type MaxConsecutiveOnes.
  * https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/
  */
-public class Solution
+public class MaxConsecutiveOnes
 {
     /**
      * Find max consecutive ones int.

@@ -1,4 +1,4 @@
- param
+param
 (
     [Parameter(Mandatory = $true, ValueFromPipeline = $true, ValueFromPipelineByPropertyName = $true)] 
     [string]$AdminURL, 
