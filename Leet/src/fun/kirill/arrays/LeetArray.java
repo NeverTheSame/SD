@@ -46,8 +46,13 @@ public class LeetArray
             System.out.println("The Array has a capacity of " + array.length);
             System.out.println("The Array has a length of " + length);
         }
+    }
 
-
-
+    public static void printArray(int[] intArray)
+    {
+        for(int i = 0; i < intArray.length; i++)
+        {
+            System.out.println("Index " + i + " contains " + intArray[i]);
+        }
     }
 }

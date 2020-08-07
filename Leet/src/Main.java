@@ -1,11 +1,33 @@
-import fun.kirill.arrays.SquaresOfASortedArray;
+import fun.kirill.arrays.LeetArray;
 
 public class Main
 {
-    public static final void main(String[] args)
+    public static void main(String[] args)
     {
-        SquaresOfASortedArray s = new SquaresOfASortedArray();
-        int[] nums = new int[] {-4,-1,0,3,10};
-        System.out.println(s.sortedSquares(nums));
+        int[] intArray = new int[6];
+        int length = 0;
+
+        // Inserting at the End of an Array
+        for (int i = 0; i < 3; i++)
+        {
+            intArray[length] = i;
+            length++;
+        }
+        intArray[length] = 10;
+
+        // Inserting at the Start of an Array
+        for(int i = 3; i >= 0; i--)
+        {
+            intArray[i + 1] = intArray[i];
+        }
+        intArray[0] = 20;
+
+        // Inserting Anywhere in the Array
+        for(int i = 4; i >= 2; i--)
+        {
+            intArray[i + 1] = intArray[i];
+        }
+        intArray[2] = 30;
+        LeetArray.printArray(intArray);
     }
 }
