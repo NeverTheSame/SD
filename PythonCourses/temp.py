@@ -1,6 +1,6 @@
 def binary_search(custom_list, number):
     if number not in my_list:
-        return "Number is not in the list!"
+        return "Number is not in the list_of_ints!"
     low = 0
     upper = len(custom_list) - 1
     found = False
