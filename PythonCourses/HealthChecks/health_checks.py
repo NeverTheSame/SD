@@ -21,6 +21,6 @@ def check_cpu_usage():
 if not check_disk_usage('/', 5) or not check_cpu_usage():
     print("Either disk is full or CPU is overloaded!")
 elif check_localhost() and check_connectivity():
-    print("Everything ok")
+    print("Everything is ok")
 else:
     print("Network checks failed")

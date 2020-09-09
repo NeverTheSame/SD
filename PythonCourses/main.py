@@ -594,3 +594,6 @@ events = [
 ]
 
 users = current_users(events)
+
+
+
