@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kirill/Documents/SD/MO365/GraphTutorial/active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1/WebApp-OpenIDConnect-DotNet.csproj": {}
+  },
+  "projects": {
+    "/Users/kirill/Documents/SD/MO365/GraphTutorial/active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1/WebApp-OpenIDConnect-DotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kirill/Documents/SD/MO365/GraphTutorial/active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1/WebApp-OpenIDConnect-DotNet.csproj",
+        "projectName": "WebApp-OpenIDConnect-DotNet",
+        "projectPath": "/Users/kirill/Documents/SD/MO365/GraphTutorial/active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1/WebApp-OpenIDConnect-DotNet.csproj",
+        "packagesPath": "/Users/kirill/.nuget/packages/",
+        "outputPath": "/Users/kirill/Documents/SD/MO365/GraphTutorial/active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kirill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
