@@ -1,4 +1,4 @@
-$webUrl = "https://adw1com.sharepoint.com/sites/bulletins/"
+$webUrl = "https://foo.sharepoint.com/sites/bulletins/"
 $relativePageUrl = "/sites/bulletins/Shared Documents/Forms/SharedWithUs.aspx"
 
 Connect-PnPOnline $webUrl -UseWebLogin

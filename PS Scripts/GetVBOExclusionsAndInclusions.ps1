@@ -30,8 +30,9 @@ $countOfUsersInAllGroupsInJob = 0
 $groupsInJob = ((Get-VBOJob -Name ShGroups).SelectedItems | Where-Object Type -eq "O365Group").Group
 
 
-Foreach ($groupinBackup in $groupsInJob)
-{
+
+
+
   $grIn = Get-UnifiedGroup -Identity $groupinBackup.GroupName
   $countOfUsersInincludedGroup = ($grIn | Get-UnifiedGroupLinks -LinkType Member).Count
   Write-host "$grIn has $countOfUsersInincludedGroup members."

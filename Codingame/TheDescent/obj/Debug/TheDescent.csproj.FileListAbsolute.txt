@@ -1,0 +1,6 @@
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/bin/Debug/TheDescent.exe
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/bin/Debug/TheDescent.pdb
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/obj/Debug/TheDescent.csprojAssemblyReference.cache
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/obj/Debug/TheDescent.csproj.CoreCompileInputs.cache
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/obj/Debug/TheDescent.exe
+/Users/kirill/Documents/Csharp/RiderProjects/Codingame/TheDescent/obj/Debug/TheDescent.pdb

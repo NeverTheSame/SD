@@ -1,0 +1,10 @@
+fun/kirill/simpleRestClient/EntityReader.class
+fun/kirill/simpleRestClient/SimpleRestClient.class
+fun/kirill/simpleRestClient/SimpleRestClient$RequestBuilder.class
+ParseJSON.class
+fun/kirill/simpleRestClient/SSLConfiguration$1.class
+fun/kirill/simpleRestClient/SimpleRestClient$Response.class
+fun/kirill/simpleRestClient/SimpleRestClient$CheckedConsumer.class
+RestAPI.class
+fun/kirill/simpleRestClient/SSLConfiguration.class
+URL.class

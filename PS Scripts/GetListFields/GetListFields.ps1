@@ -27,21 +27,21 @@ $Cred = New-Object Microsoft.SharePoint.Client.SharePointOnlineCredentials($Cred
 $Ctx = New-Object Microsoft.SharePoint.Client.ClientContext($SiteURL)
 $Ctx.Credentials = $Cred
          
-#Get the List and list fields
+#Get the List and list_of_ints fields
 $List = $Ctx.Web.Lists.GetByTitle($ListName)
 $Ctx.Load($List)
  
-#sharepoint online powershell get list columns
+#sharepoint online powershell get list_of_ints columns
 $Ctx.Load($List.Fields)
 $Ctx.ExecuteQuery()
          
-#Iterate through each field in the list
+#Iterate through each field in the list_of_ints
 Foreach ($Field in $List.Fields)
 {  
     #Skip System Fields
     if(($Field.ReadOnlyField -eq $False) -and ($Field.Hidden -eq $False))
     {
-       #get internal name of sharepoint online list column powershell
+       #get internal name of sharepoint online list_of_ints column powershell
        Write-Host $Field.Title: $Field.InternalName
     }
 }

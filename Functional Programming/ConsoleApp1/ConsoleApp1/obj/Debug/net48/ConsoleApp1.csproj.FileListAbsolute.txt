@@ -1,0 +1,9 @@
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/bin/Debug/net48/ConsoleApp1.exe.config
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/bin/Debug/net48/ConsoleApp1.exe
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/bin/Debug/net48/ConsoleApp1.pdb
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.csprojAssemblyReference.cache
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.AssemblyInfo.cs
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.exe
+/Users/kirill/Documents/SD/Functional Programming/ConsoleApp1/ConsoleApp1/obj/Debug/net48/ConsoleApp1.pdb

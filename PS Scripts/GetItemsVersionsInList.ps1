@@ -13,10 +13,22 @@ param
     [string]$outputPath
 )
       
+$siteURL = "https://shakudo.sharepoint.com/sites/Recaller"
+$Credential = get-credential
+$listName = "Documents"
+
+$user = "kirill@shakudo.onmicrosoft.com";
+$password = Read-Host -Prompt "Input Password" -AsSecureString
+
+$clientContext = New-Object Microsoft.SharePoint.Client.ClientContext($siteUrl) 
+$credentials = New-Object Microsoft.SharePoint.Client.SharePointOnlineCredentials($user, $password) 
+$clientContext.Credentials = $credentials
+
+
 # Connect to SharePoint Online site  
 Connect-PnPOnline -Url $siteURL -Credentials $Credential
       
-# Get the list items  
+# Get the list_of_ints items
 $itemColl=Get-PnPListItem -List $listName  
       
 # Get the context  
@@ -38,3 +50,4 @@ foreach($item in $itemColl)
         Write-Host -ForegroundColor Yellow $item["Title"] "Processed"  
     } 
 $results | Out-File $outputPath
+
