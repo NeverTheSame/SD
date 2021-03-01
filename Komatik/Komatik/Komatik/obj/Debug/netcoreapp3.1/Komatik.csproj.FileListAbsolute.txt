@@ -1,0 +1,12 @@
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/bin/Debug/netcoreapp3.1/Komatik.deps.json
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/bin/Debug/netcoreapp3.1/Komatik.runtimeconfig.json
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/bin/Debug/netcoreapp3.1/Komatik.runtimeconfig.dev.json
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/bin/Debug/netcoreapp3.1/Komatik.dll
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/bin/Debug/netcoreapp3.1/Komatik.pdb
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.csprojAssemblyReference.cache
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.AssemblyInfoInputs.cache
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.AssemblyInfo.cs
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.csproj.CoreCompileInputs.cache
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.dll
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.pdb
+/Users/kirill/Documents/SD/Komatik/Komatik/Komatik/obj/Debug/netcoreapp3.1/Komatik.genruntimeconfig.cache
