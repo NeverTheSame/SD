@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kraken", "Kraken\Kraken.csproj", "{A26684E0-67BE-4366-9CD7-0049A2509FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{8683C73E-2DCE-4422-8340-AF1C6BE8A4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26684E0-67BE-4366-9CD7-0049A2509FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26684E0-67BE-4366-9CD7-0049A2509FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26684E0-67BE-4366-9CD7-0049A2509FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26684E0-67BE-4366-9CD7-0049A2509FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8683C73E-2DCE-4422-8340-AF1C6BE8A4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8683C73E-2DCE-4422-8340-AF1C6BE8A4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8683C73E-2DCE-4422-8340-AF1C6BE8A4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8683C73E-2DCE-4422-8340-AF1C6BE8A4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
